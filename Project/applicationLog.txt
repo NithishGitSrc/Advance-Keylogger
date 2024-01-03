@@ -1,0 +1,129 @@
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – syseminfo.txt
+Timestamp: 2023-06-13 13:44:01, Application: keylogger – syseminfo.txt
+Timestamp: 2023-06-13 13:44:12, Application: keylogger – syseminfo.txt
+Timestamp: 2023-06-13 13:44:12, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:12, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:12, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:12, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:24, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:24, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:24, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:24, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:24, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:44:38, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:44:38, Application: Inbox (976) - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: Inbox (976) - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: Inbox (976) - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:45:01, Application: keylogger – document.txt
+Timestamp: 2023-06-13 13:45:01, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 13:45:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 13:45:01, Application: keylogger – applicationLog.txt
+Timestamp: 2023-06-13 16:51:45, Application: Search
+Timestamp: 2023-06-13 16:51:45, Application: Search
+Timestamp: 2023-06-13 16:51:45, Application: Search
+Timestamp: 2023-06-13 16:51:45, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:45, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:45, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:45, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Document1 - Microsoft Word (Product Activation Failed)
+Timestamp: 2023-06-13 16:51:57, Application: Task Switching
+Timestamp: 2023-06-13 16:51:57, Application: Unveiling the Power of Advance Keylogger - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:51:57, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: New Tab - Brave
+Timestamp: 2023-06-13 16:52:32, Application: vtop - Google Search - Brave
+Timestamp: 2023-06-13 16:52:32, Application: vtop - Google Search - Brave
+Timestamp: 2023-06-13 16:52:32, Application: Task Switching
+Timestamp: 2023-06-13 16:52:32, Application: keylogger – demo.py
+Timestamp: 2023-06-13 16:52:32, Application: Task Switching
+Timestamp: 2023-06-13 16:52:32, Application: Task Switching
+Timestamp: 2023-06-13 16:52:32, Application: Task Switching
+Timestamp: 2023-06-13 16:52:32, Application: Task Switching
+Timestamp: 2023-06-13 16:52:48, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 16:52:48, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 16:53:00, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 16:55:25, Application: Captured Keys - nithishg7775@gmail.com - Gmail - Brave
+Timestamp: 2023-06-13 16:57:55, Application: Windows Default Lock Screen
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:35, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:43, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:43, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:43, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:43, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:07:43, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: Search
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py
+Timestamp: 2023-12-04 16:11:30, Application: keylogger – demo.py

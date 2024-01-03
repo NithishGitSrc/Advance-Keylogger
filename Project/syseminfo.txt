@@ -1,0 +1,6 @@
+Public IP Address: 116.213.9.98
+Processor: Intel64 Family 6 Model 140 Stepping 2, GenuineIntel
+System: Windows 11.0.12621
+Machine: AMD64
+Hostname: LAPTOP-3BC54LAG
+Private IP Address: 122.18.119.47
