@@ -20,8 +20,14 @@ In modern business operations heavily reliant on computer systems, the threat of
 
 ## Architecture Diagram
 
-![Architecture diagram](https://github.com/NithishGitSrc/Advance-Keylogger/assets/126682106/fb147922-46f7-4435-bdc2-9def2f15e45f)
+<div align="center">
+<img src="https://github.com/NithishGitSrc/Advance-Keylogger/assets/126682106/b4bc6671-536b-4c57-9195-a5239e5d5f51" width="70%" />
+</div>
 
+## Functional Diagram
+<div align="center">
+<img src="https://github.com/NithishGitSrc/Advance-Keylogger/assets/126682106/4897561d-79a9-464d-bef4-c3d5327b4081" width="70%" />
+</div>
 
 ## Installation
 
